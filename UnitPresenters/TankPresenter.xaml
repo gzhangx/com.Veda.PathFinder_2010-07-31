@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="com.Veda.PathFinder.UnitPresenters.TankPresenter"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="30" Width="30">
+    <UserControl.Resources>
+        <Storyboard x:Key="myStoryboard">
+            <PointAnimation Storyboard.TargetProperty="PTCenter"
+          Duration="0:0:5"
+          From="20,200"
+          To="400,100"/>
+
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.Resources>            
+
+        </Grid.Resources>
+        <Border CornerRadius="5" Background="Aqua"></Border>
+    </Grid>
+</UserControl>

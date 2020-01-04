@@ -1,0 +1,24 @@
+﻿<Window x:Class="com.Veda.PathFinder.MainWindowTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+      <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+         <Canvas x:Name="mapCanv" MouseLeftButtonUp="mapCanv_MouseLeftButtonUp" MouseLeftButtonDown="mapCanv_MouseLeftButtonDown" MouseMove="mapCanv_MouseMove" Background="Azure"></Canvas>
+      </ScrollViewer>
+      <StackPanel Grid.Row="1" Orientation="Horizontal">
+      <Button Content="drawMode" Click="ButtonDraw_Click" ></Button>
+      <Button Content="SetStart" Click="Button_Click_Start"></Button>
+      <Button Content="SetEnd" Click="Button_Click_End"></Button>
+      <Button Content="Clean" Click="Button_Click_Clean"></Button>
+        <Button Content="draw" x:Name="btnDraw" Click="btnDraw_Click"></Button>
+      <Button Content="AddTank" Click="Button_Click_AddTank"></Button>
+      <Button Content="Load" Click="Button_Click_Load"></Button>
+          <Button Content="Save" Click="Button_Click_Save"></Button>
+    </StackPanel>
+    </Grid>
+</Window>

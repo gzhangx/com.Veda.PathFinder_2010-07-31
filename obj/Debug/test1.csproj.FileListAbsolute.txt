@@ -1,0 +1,16 @@
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\MainWindow.baml
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\MainWindowTest.baml
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\MainWindow.g.cs
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\MainWindowTest.g.cs
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\App.g.cs
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\test1_MarkupCompile.cache
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\test1.g.resources
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\com.Veda.PathFinder.Properties.Resources.resources
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\temp\sp1\com.Veda.PathFinder\bin\Debug\test1.exe
+C:\temp\sp1\com.Veda.PathFinder\bin\Debug\test1.pdb
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\test1.exe
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\test1.pdb
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\UnitPresenters\tkpsentr.baml
+C:\temp\sp1\com.Veda.PathFinder\obj\Debug\UnitPresenters\tkpsentr.g.cs
